@@ -2,7 +2,7 @@
 {
   font-family: verdana;
   position: absolute;
-  left : 506px;
+  left : 106px;
   top:0px;
   height : 130px;
   padding : 20px 20px;
@@ -14,47 +14,47 @@
 {
   position: absolute;
   top : 145px;
-  left : 590px;
+  left : 190px;
   border-radius: 70%;
 }
 #hello
 {
   position: absolute;
   top : 245px;
-  left : 600px;
+  left : 200px;
   color : blue;
 }
 #desc
 {
   position: absolute;
   top : 285px;
-  left : 445px;
+  left : 45px;
 }
 #dot1
 {
   position: absolute;
   top : 430px;
-  left : 625px;
+  left : 225px;
 }
 #skills
 {
   position: absolute;
   top : 480px;
-  left : 585px;
+  left : 185px;
   color : blue;
 }
 #one
 {
   position: absolute;
   top : 560px;
-  left : 585px;
+  left : 185px;
   color : rgb(0,0,60);
 }
 #img1
 {
   position: absolute;
   top : 560px;
-  left : 480px;
+  left : 80px;
 }
 #lin
 {
@@ -65,32 +65,32 @@
 {
   position: absolute;
   top : 620px;
-  left : 480px;
+  left : 80px;
 }
 #img2
 {
   position: absolute;
   top : 750px;
-  left : 465px;
+  left : 65px;
 }
 #two
 {
   position: absolute;
   top : 750px;
-  left : 585px;
+  left : 185px;
   color : rgb(0,0,60);
 }
 #d2
 {
   position: absolute;
   top : 820px;
-  left : 490px;
+  left : 90px;
 }
 #dot2
 {
   position: absolute;
   top : 940px;
-  left : 625px;
+  left : 225px;
 }
 #img3
 {
@@ -103,28 +103,28 @@
 {
   position: absolute;
   top : 115px;
-  left : 135px;
+  left : 115px;
 }
 #lin
 {
   position: absolute;
   top : 95px;
-  left : 160px;
+  left : 140px;
 }
 #cr
 {
   position: absolute;
   top : 125px;
-  left : 117px;
+  left : 87px;
 }
 .footer
 {
   font-family: verdana;
   position: absolute;
-  left : 450px;
+  left : 50px;
   top:1010px;
   height : 150px;
-  width : 370px;
+  width : 200px;
   padding : 20px 20px;
   border-bottom: 1px solid black;
   color : rgb(1,1,1);

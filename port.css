@@ -5,6 +5,7 @@
   left : 0px;
   top:0px;
   height : 130px;
+  width : 400px;
   border-bottom: 1px solid black;
   color : rgb(1,1,1);
   background-color: rgb(155,155,155);
@@ -13,14 +14,14 @@
 {
   position: absolute;
   top : 95px;
-  left : 140px;
+  left : 0px;
   border-radius: 70%;
 }
 #hello
 {
   position: absolute;
   top : 245px;
-  left : 100px;
+  left : 0px;
   color : blue;
 }
 #desc
@@ -33,84 +34,84 @@
 {
   position: absolute;
   top : 430px;
-  left : 125px;
+  left : 0px;
 }
 #skills
 {
   position: absolute;
   top : 480px;
-  left : 85px;
+  left : 0px;
   color : blue;
 }
 #one
 {
   position: absolute;
   top : 560px;
-  left : 85px;
+  left : 0px;
   color : rgb(0,0,60);
 }
 #img1
 {
   position: absolute;
   top : 560px;
-  left : 30px;
+  left : 0px;
 }
 
 #d1
 {
   position: absolute;
   top : 620px;
-  left : 30px;
+  left : 0px;
 }
 #img2
 {
   position: absolute;
   top : 750px;
-  left : 15px;
+  left : 0px;
 }
 #two
 {
   position: absolute;
   top : 750px;
-  left : 85px;
+  left : 0px;
   color : rgb(0,0,60);
 }
 #d2
 {
   position: absolute;
   top : 820px;
-  left : 30px;
+  left : 0px;
 }
 #dot2
 {
   position: absolute;
   top : 940px;
-  left : 125px;
+  left : 0px;
 }
 #img3
 {
   position: absolute;
   top : 10px;
-  left : 90px;
+  left : 0px;
 }
 
 #in
 {
   position: absolute;
   top : 115px;
-  left : 100px;
+  left : 0px;
 }
 #lin
 {
   position: absolute;
   top : 95px;
-  left : 125px;
+  left : 0px;
 }
 #cr
 {
   position: absolute;
   top : 125px;
-  left : 72px;
+  left : 0px;
 }
 .footer
 {
